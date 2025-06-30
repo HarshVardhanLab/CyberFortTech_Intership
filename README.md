@@ -1,10 +1,10 @@
-# Daily AIML Challenge - Day [X]: Python Fundamentals
+# Daily AIML Challenge - Day [1]: Python Fundamentals
 
-This repository contains the Python code solution for Day [X] of the #60DaysOfAIML challenge. This day focused on reinforcing fundamental Python programming concepts, which are crucial building blocks for more advanced AI and ML topics.
+This repository contains the Python code solution for Day [1] of the #60DaysOfAIML challenge. This day focused on reinforcing fundamental Python programming concepts, which are crucial building blocks for more advanced AI and ML topics.
 
 ## Table of Contents
 
-- [Daily AIML Challenge - Day [X]: Python Fundamentals](#daily-aiml-challenge---day-x-python-fundamentals)
+- [Daily AIML Challenge - Day [1]: Python Fundamentals](#daily-aiml-challenge---day-x-python-fundamentals)
   - [Table of Contents](#table-of-contents)
   - [Challenge Overview](#challenge-overview)
   - [Concepts Covered](#concepts-covered)
@@ -16,7 +16,7 @@ This repository contains the Python code solution for Day [X] of the #60DaysOfAI
 
 ## Challenge Overview
 
-The challenge for Day [X] involved a series of small programming tasks designed to test and improve proficiency in basic Python syntax and common programming patterns. Each part built upon foundational knowledge, preparing for more complex assignments.
+The challenge for Day [1] involved a series of small programming tasks designed to test and improve proficiency in basic Python syntax and common programming patterns. Each part built upon foundational knowledge, preparing for more complex assignments.
 
 ## Concepts Covered
 
@@ -65,7 +65,7 @@ The entire solution is contained within a single Python file, `daily_aiml_day_X.
     ```
 3.  **Execute the Python script:**
     ```bash
-    python daily_aiml_day_X.py
+    python daily_aiml_day_1.py
     ```
     If you are using a Jupyter Notebook (`.ipynb`), open it with Jupyter Lab or Jupyter Notebook and run the cells.
 
@@ -74,11 +74,6 @@ The script will prompt you for input as it progresses through the different task
 ## Contribution
 
 This project is part of my personal learning journey. However, feel free to fork the repository, experiment with the code, or suggest improvements.
-
-## Connect with Me
-
-* **GitHub:** [Your GitHub Profile Link]
-* **LinkedIn:** [Your LinkedIn Profile Link]
 
 Feel free to connect and follow my #60DaysOfAIML journey!
 
