@@ -43,5 +43,4 @@ This repository contains my submission for **Assignment 2: Mastering Python Data
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/assignment2-python-data-structures.git
-   cd assignment2-python-data-structures
+   git clone https://github.com/HarshVardhanLab/CyberFortTech_Intership/tree/main/AssignmentsOfInternship
