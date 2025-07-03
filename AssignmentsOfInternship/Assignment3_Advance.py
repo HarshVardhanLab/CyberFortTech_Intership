@@ -323,20 +323,20 @@ def main():
     for name, data in sorted_students:
         print(f"{name:<15} {data['average']:<10.2f} {data['grade']:<5}")
 
-    # 🏆 Analytics Dashboard
-    print("\n\n🏆 --- Analytics Dashboard ---")
+    # Analytics Dashboard
+    print("\n --- Analytics Dashboard ---")
 
     # Highest average student
     top_student = sorted_students[0]
-    print(f"\n📌 Highest Average: {top_student[0]} ({top_student[1]['average']:.2f})")
+    print(f"\n Highest Average: {top_student[0]} ({top_student[1]['average']:.2f})")
 
     # Grade distribution
-    print("\n📊 Grade Distribution:")
+    print("\n Grade Distribution:")
     for grade in ['A', 'B', 'C']:
         print(f"Grade {grade}: {grade_counts[grade]} students")
 
     # Subject-wise toppers
-    print("\n🎯 Subject-wise Toppers:")
+    print("\n Subject-wise Toppers:")
     for subj_index in range(3):
         max_marks = -1
         topper_names = []
